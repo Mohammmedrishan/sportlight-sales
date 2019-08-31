@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sportlightsales</string>
+    <string name="master_url">https://sportlights.000webhostapp.com/sportlightsales/</string>
+    <!--<string name="master_url">http://192.168.43.93/sportlight_sales/</string>-->
+
+    <!-- Success Resource Strings -->
+    <string name="response_success">successful</string>
+    <string name="response_unsuccessful">unsuccessful</string>
+
+
+    <!-- Error Resource Strings -->
+    <string name="unexpected">Something went wrong. Please try again later</string>
+    <string name="exception">exception</string>
+
+
+    <!-- DB Resource Strings -->
+    <string name="method_get">GET</string>
+
+
+    <!-- View Resource Strings -->
+    <string name="profile_user">user</string>
+    <string name="retry_btn">Retry</string>
+
+</resources>
